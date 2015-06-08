@@ -1,1 +1,15 @@
-/ 100
+90/ 100
+Last update Fri May 29 21:43:37 2015 -0700
+
+cd PATH: /20
+     (The prompt must change correctly for all of the cases for full credit)
+    [0/5] Change to a directory above the current working directory.
+    [0/5] Change to a directory specified using an absolute path.
+    [0/5] Change to a directory which does not exist.
+
+
+extra credit 1: /30
+    [0/10] Catching ^Z and pausing
+    [0/10] fg
+    [0/10] bg
+
